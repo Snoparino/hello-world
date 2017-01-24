@@ -1,2 +1,3 @@
 # hello-world
-i dont know about this 
+HAH <!DOCTYPE HTML >
+just trying this out it looks fun
